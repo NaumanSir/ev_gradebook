@@ -3,3 +3,27 @@
     font-family: 'Lexend Deca', sans-serif;
     margin: 10px 40%;
 }
+
+#grade_table {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 15px 10px 15px 10px;
+}
+  
+#grade_table td, #grade_table th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+  
+#grade_table tr:nth-child(even){background-color: #f2f2f2;}
+  
+#grade_table tr:hover {background-color: #ddd;}
+  
+#grade_table th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: purple;
+    color: white;
+}
