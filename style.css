@@ -1,14 +1,14 @@
 #header {
     color: purple;
     font-family: 'Lexend Deca', sans-serif;
-    margin: 10px 40%;
+    margin: 20px 40%;
 }
 
 #grade_table {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
     width: 100%;
-    margin: 15px 10px 15px 10px;
+    margin: 15px 15px 15px 15px;
 }
   
 #grade_table td, #grade_table th {
